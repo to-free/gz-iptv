@@ -4,7 +4,7 @@
 ## emby使用教程
 [详细emby设置教程](https://www.qcgzxw.cn/3277.html)
 
-添加电视源：https://raw.githubusercontent.com/qcgzxw/MyIPTV/main/emby.m3u
+添加电视源：https://raw.githubusercontent.com/to-free/MyIPTV/main/emby.m3u
 
 指南数据源添加，选择XmlTV，添加以下网址即可
 
